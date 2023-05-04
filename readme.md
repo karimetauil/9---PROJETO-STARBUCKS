@@ -13,7 +13,7 @@
     
 <br>
 
-<img src="https://github.com/karimetauil/projeto---2-Easy-Shopping---pc/blob/main/capturas/Capturar%20Site%20inteiro.PNG?raw=true">
+<img src="">
 
 <br>
 

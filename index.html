@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;900&display=swap" rel="stylesheet">
+            <link rel="stylesheet" href="styles.css">
+            <title>Starbucks</title>
+        </head>
+
+        <body>
+
+            <div class="circulo"> 
+            </div> 
+                
+                                <img src="./assets/logo.png" alt="logo" class="logo">
+
+                    <div class="conteudo">
+                            <div class="caixa-texto">
+                                    <h2>It's not just Coffee
+                                    <br>It's <span>Starbucks</span></h2>
+                                    <p> Lorem ipsum dolor sit amet conseur adipisicing elit. Eos uisf yetr koilp asperiores, ex a doloribus enim aperiam facere in sunt minima cum placeat voluptatum debitiss sotta animrri fuga consetrtur dicta, veritis quo.</p>
+                                    <button>Learn More</button>
+                            </div>
+
+                            <div class="caixa-imagem">
+                                <img src="./assets/img1.png" alt="img1" class="starbucks">
+                            </div>
+                    </div>
+
+                            <div class="menu">
+                                <img src="./assets/thumb1.png" alt="thumb1" class="botao-menu" onclick="trocaImagem('./images/img1.png'); trocaCor('#017143')">
+                                <img src="./assets/thumb2.png" alt="thumb2" class="botao-menu" onclick="trocaImagem('./images/img2.png'); trocaCor('#eb7495')">
+                                <img src="./assets/thumb3.png" alt="thumb3" class="botao-menu" onclick="trocaImagem('./images/img3.png'); trocaCor('#d752b1')">
+                            </div>
+        </body>
+
+
+
+                        <script>
+                            let imagem = document.querySelector(".starbucks")
+                            let circulo = document.querySelector(".circulo")
+                                                  
+                                function trocaImagem(endereco){
+                                    imagem.src = endereco
+                                }
+
+                                function trocaCor(cor){
+                                    circulo.style.background = cor
+                                }
+                                                    
+                        </script>
+
+    </html>

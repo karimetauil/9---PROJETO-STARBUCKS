@@ -14,7 +14,8 @@
    <br>
     
 <div align="center">
-    <img src="   " width="600px">
+    <img src="https://github.com/karimetauil/9---PROJETO-STARBUCKS/blob/main/captura%20de%20tela/Projeto%20Starbucks.gif?raw=true" 
+         width="600px">
   </div>
 
    <br>

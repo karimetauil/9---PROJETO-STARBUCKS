@@ -1,21 +1,23 @@
-<h1 align="center"> Starbucks </h1>
+<h1 align="center"> Projeto Starbucks </h1>
 
 <h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
 
-<br>
+  <br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
+   <br>
     
-<br>
+<div align="center">
+    <img src="   " width="600px">
+  </div>
 
-<img src>dsdbfd
-
-<br>
+   <br>
 
 ## 🚀 Tecnologias
 
@@ -25,17 +27,25 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS3
 - JavaScript
 
+  <br>
+
 ## 💻 Projeto
 
 O Projeto Starbucks -----------------simula um site de compras facéis pelo celular, onde é possível adicionar produtos e fazer contatos com o responsável.
+
+  <br>
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/NLeHPJXuYE08PPmRce9nhP/Shopping-via-mobile-illustration?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+  <br>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença KTDA.
+
+  <br>
 
 ---
 

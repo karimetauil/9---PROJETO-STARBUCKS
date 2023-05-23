@@ -32,13 +32,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Starbucks -----------------simula um site de compras facéis pelo celular, onde é possível adicionar produtos e fazer contatos com o responsável.
+O Projeto Starbucks, é um clone da Home Page original da empresa multinacional Starbucks, que possui a maior cadeia de cafeterias do Mundo.
+- Ao passar o mouse pelos copinhos, ocorre um efeito, onde há mudanças de cores e os mesmos são trocados na própria página;
+- Ao clicar no 'botão' Learn More, há um efeito também.
 
   <br>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/NLeHPJXuYE08PPmRce9nhP/Shopping-via-mobile-illustration?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1069619517324835361). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
   <br>
 
